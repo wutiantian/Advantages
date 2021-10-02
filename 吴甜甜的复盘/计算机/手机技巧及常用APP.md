@@ -1,3 +1,24 @@
+# 常用技巧
+
+
+
+场景|地址
+---|---
+录屏视频地址 |   \内部存储\Pictures\Screenshots
+相机拍摄地址|   \内部存储\DCIM\Camera
+手机qq接收的文件在  |   tencent\QQfile_recv
+电脑QQ接收图片地址   |Tencent/Mobile/你的QQ号/Photo
+
+
+
+
+
+
+
+
+
+
+
 # 2020年度安卓手机必备APP
 
 类别|名称|内容
