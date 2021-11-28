@@ -35,6 +35,9 @@
 云同步浏览器|firefox|https://www.firefox.com.cn/|云同步网页标签。X谷歌需要翻，XQQ广告多
 文档|office|我的网盘长期有效链接|word文档
 文档|VScode|https://code.visualstudio.com/|markdown文档上传网页，方便同步
+电子书|Sumatra PDF|https://www.sumatrapdfreader.org/download-free-pdf-viewer|打开各种电子书格式mobi。免安装，只有十几M大小，启动速度快，阅读体验好。不能做笔记及批注，但能记录阅读速度。
+
+
 
 
 
